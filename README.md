@@ -22,12 +22,12 @@ If one stays on the same project, they should move within it to learn more. Idea
 
 An example comes from my experience. As a mechanical engineer, there are many options for both career options and project opportunities. One can be involved in concept design, structural analysis, computer modeling, testing, and design iteration. It is important to change projects when one has not had exposure to more than one large area of opportunity. 
 
-# Involvement with the Longevity of the Project
+# Involvement with the Longevity of the Project.
 
 One benefit of being part of a single project for a long time, is the opportunity to truly grow on it, to watch others grow on it, and to become part of the cycle of members coming and going.
 
 You have the time to truly make an impact on the project and affect how the future of it goes. 
 
-# Learning to Adapt
+# Learning to Adapt.
 
 Challenging oneself with a new project is a great way to learn to adapt. In the real workforce, one does not stay on a single team or a single project. Thus, it is great practice and experience to have to learn quickly, learn from others, and share new ideas even when on something new. 
