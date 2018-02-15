@@ -34,14 +34,14 @@ You have the time to truly make an impact on the project and affect how the futu
 
 Challenging oneself with a new project is a great way to learn to adapt. In the real workforce, one does not stay on a single team or a single project. Thus, it is great practice and experience to have to learn quickly, learn from others, and share new ideas even when on something new. 
 
-## My Personal Experiences
+# My Personal Experiences
 
 Next is a quick description of the projects I have worked on in order to display what I have gained from each of them. 
 
-# Formula SAE at Cornell University
+## Formula SAE at Cornell University
 
 This is a project team at school that has roughly 60 students. The team designs, builds, manufactures, and races a formulastyle racecar at the MIS Competition. It has a carbon monocoque and a modified CVR 600 engine. Sub-teams exist both on the chassis and the engine side. Design engineers must know about fluid dynamics, thermodynamics, structural analysis, material properties, and dynamics of mechanisms. THere are many systems, subsystems, components, and subsystems. We manufacture as much as we can, but of course also have to go through choosing purchased components from competing suppliers. The great thing about a project as big as a racecar is that there are many diverse opportunities for learning different skills, topics, and for learning to lead and interact with members of a group. 
 
-# Research Opportunities
+## Research Opportunities
 
 Undergraduates, not just graduates, can be involved in research opportunities. Some of the projects I have talked to professors about have included: designing a robot made out of paper laminate that folds on the creases on the paper in order to travel, designing an auto-belay-like device for animals, and determining a more accurate method to model the torsional stresses on an elastic material. It is very useful to get involved with professors that are experts in their field, in order to be able to learn from intelligent and experienced individuals. 
