@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-This code will add together all the ven numbers between 0 and 100 and will print the resulting sum to the terminal. It is part of the master breanch of CHEME_5500_WC_4. 
+This code will add together all the even numbers between 0 and 100 and will print the resulting sum to the terminal. It is part of the master breanch of CHEME_5500_WC_4. 
 
 ## Code Summary
 
